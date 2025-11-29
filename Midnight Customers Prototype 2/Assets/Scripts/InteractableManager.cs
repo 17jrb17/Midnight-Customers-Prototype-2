@@ -12,13 +12,13 @@ public class InteractableManager : MonoBehaviour
     string[] freezer_m = new string[] { "Why do we sell so much water?", "What kind of brand is this?", "Someone drew the investigator in the frost." };
     string[] freezer_l = new string[] { "Who drinks saltwater?", "Why is everything so sticky?", "Someone drew a fish person in the frost." };
     string[] soda_m = new string[] { "I think mold is growing in the ice machine.", "Glad I haven't been asked to clean this." };
-    string[] soda_l = new string[] { "Salt water in a drink machine.", "Who refills the machine?" };
+    string[] soda_l = new string[] { "Salt water in a drink machine?", "Who refills the machine?" };
     string[] window_m = new string[] { "Is that something moving in the woods?", "It is really creepy with no lights out there", "How do people find this place" };
-    string[] window_l = new string[] { "What is that?", "Who is that in the woods?", "Where do these people come from?" };
-    string[] shelves_m = new string[] { "Why do we sell more of the unnatural things?", "We never sell the normal items.", "These are some interesting flavors." };
+    string[] window_l = new string[] { "What is that?", "Was that...nevermind. I'm seeing things.", "Where do these people come from?" };
+    string[] shelves_m = new string[] { "Why do we sell more of the unnatural things?", "There's not a single normal item here.", "These are some interesting flavors." };
     string[] shelves_l = new string[] { "Why do we have eel flavored cat food?", "Did that gummy worm move?", "Who buys this stuff..." };
     string[] food_m = new string[] { "This stuff is burnt.", "Is that how those are supposed to look?" };
-    string[] food_l = new string[] { "Is that a tentacle...", "Does that say eyeballs as an ingredient?" };
+    string[] food_l = new string[] { "Tentacles on a stick...huh.", "Ingredients...eyeballs?" };
     
     // References
     Interactable freezer_reference;
